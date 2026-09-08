@@ -1,0 +1,5 @@
+# JUALAN - PERTEMUAN 1
+SPLASH SCREEN, COMPOSE, IMAGE
+
+"D:\MOBILE\splashscreen.png"
+
