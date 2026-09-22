@@ -2,6 +2,7 @@
 .gradle
 /local.properties
 /.idea
+/kotlin
 .DS_Store
 /build
 /app/build
@@ -9,4 +10,7 @@
 .externalNativeBuild
 .cxx
 local.properties
-.pdf
+*.pdf
+.vscode/
+nul
+tmp_*.py
